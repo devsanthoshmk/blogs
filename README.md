@@ -18,11 +18,27 @@ A blog to document my journey toward mastering Data Structures and Algorithms (D
 
 ## **Arrays**
 
-- [ ] Fundamentals
-- [ ] Logic Building
-- [ ] FAQs (Medium)
-- [ ] FAQs (Hard)
-- [ ] Contest
+- [ ] Lec 1: Easy
+
+  - [ ] Second Largest Element in an Array without sorting
+  - [ ] Check if the array is sorted and rotated
+  - [ ] Find the Kth smallest and largest element in an array
+  - [ ] Find the largest three elements in an array
+  - [ ] Find the first repeating element
+  - [ ] Remove duplicates from Sorted array
+  - [ ] Left Rotate an array by one place
+  - [ ] Left rotate an array by D places
+  - [ ] Move Zeros to end
+  - [ ] Linear Search
+  - [ ] Find the Union
+  - [ ] Find missing number in an array
+  - [ ] Maximum Consecutive Ones
+  - [ ] Find the number that appears once, and other numbers twice.
+  - [ ] Longest subarray with given sum K (positives)
+  - [ ] Longest subarray with sum K (positives + negatives)
+
+- [ ] Lec 2: Medium
+- [ ] Lec 3: Hard
 
 ## **Hashing**
 
