@@ -25,11 +25,12 @@ A blog to document my journey toward mastering Data Structures and Algorithms (D
   - [x] Find the Kth smallest and largest element in an array
   - [x] Find the largest three elements in an array
   - [x] Find the first repeating element
-  - [ ] Remove duplicates from Sorted array
-  - [ ] Left Rotate an array by one place
-  - [ ] Left rotate an array by D places
-  - [ ] Move Zeros to end
-  - [ ] Linear Search
+  - [x] Remove duplicates from Sorted array
+  - [x] Left Rotate an array by one place
+  - [x] Left rotate an array by D places
+  - [x] Move Zeros to end
+  - [x] Linear Search
+  - [x] Find the Intersection
   - [ ] Find the Union
   - [ ] Find missing number in an array
   - [ ] Maximum Consecutive Ones
