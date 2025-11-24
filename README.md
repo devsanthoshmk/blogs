@@ -1,7 +1,5 @@
 # Developer Journey toward DSA
 
-A blog to document my journey toward mastering Data Structures and Algorithms (DSA). Here, I will share my experiences, challenges, and milestones as I navigate through the world of DSA, aiming to help others who are on a similar path. Join me as I explore various concepts, solve problems, and grow as a developer in this exciting field.
-
 # My Todo List:
 
 ## **Sorting**
