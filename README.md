@@ -41,10 +41,10 @@
   - [x] 2Sum Problem
   - [x] Sort an array of 0's 1's and 2's
   - [x] Majority Element (>n/2 times)
-  - [ ] Kadane's Algorithm, maximum subarray sum
-  - [ ] Stock Buy and Sell
-  - [ ] Rearrange the array in alternating positive and negative items
-  - [ ] Next Permutation
+  - [x] Kadane's Algorithm, maximum subarray sum
+  - [x] Stock Buy and Sell
+  - [x] Rearrange the array in alternating positive and negative items
+  - [x] Next Permutation
   - [ ] Leaders in an Array problem
   - [ ] Longest Consecutive Sequence in an Array
   - [ ] Set Matrix Zeros
