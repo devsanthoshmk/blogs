@@ -45,9 +45,9 @@
   - [x] Stock Buy and Sell
   - [x] Rearrange the array in alternating positive and negative items
   - [x] Next Permutation
-  - [ ] Leaders in an Array problem
-  - [ ] Longest Consecutive Sequence in an Array
-  - [ ] Set Matrix Zeros
+  - [x] Leaders in an Array problem
+  - [x] Longest Consecutive Sequence in an Array
+  - [x] Set Matrix Zeros
   - [ ] Rotate Matrix by 90 degrees
   - [ ] Print the matrix in spiral manner
   - [ ] Count subarrays with given sum
