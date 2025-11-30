@@ -54,6 +54,19 @@
 
 - [ ] Lec 3: Hard
 
+  - [ ] Pascal's Triangle
+  - [ ] Majority Element (n/3 times)
+  - [ ] 3-Sum Problem
+  - [ ] 4-Sum Problem
+  - [ ] Largest Subarray with 0 Sum
+  - [ ] Count number of subarrays with given xor K
+  - [ ] Merge Overlapping Subintervals
+  - [ ] Merge two sorted arrays without extra space
+  - [ ] Find the repeating and missing number
+  - [ ] Count Inversions
+  - [ ] Reverse Pairs
+  - [ ] Maximum Product Subarray
+
 ## **Hashing**
 
 - [x] Theory
