@@ -36,7 +36,7 @@
   - [x] Longest subarray with given sum K (positives)
   - [x] Longest subarray with sum K (positives + negatives)
 
-- [ ] Lec 2: Medium
+- [x] Lec 2: Medium
 
   - [x] 2Sum Problem
   - [x] Sort an array of 0's 1's and 2's
@@ -49,12 +49,12 @@
   - [x] Longest Consecutive Sequence in an Array
   - [x] Set Matrix Zeros
   - [x] Rotate Matrix by 90 degrees
-  - [ ] Print the matrix in spiral manner
-  - [ ] Count subarrays with given sum
+  - [x] Print the matrix in spiral manner
+  - [x] Count subarrays with given sum
 
 - [ ] Lec 3: Hard
 
-  - [ ] Pascal's Triangle
+  - [x] Pascal's Triangle
   - [ ] Majority Element (n/3 times)
   - [ ] 3-Sum Problem
   - [ ] 4-Sum Problem
