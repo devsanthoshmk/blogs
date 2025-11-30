@@ -102,6 +102,18 @@
   - [ ] Find Peak Element (2D Matrix)
   - [ ] Matrix Median
 
+## Strings [Basic and Medium]
+
+- [ ] Lec 1: Basic and Easy String Problems
+
+  - [ ] Remove outermost Paranthesis
+  - [ ] Reverse words in a given string / Palindrome Check
+  - [ ] Largest odd number in a string
+  - [ ] Longest Common Prefix
+  - [ ] Isomorphic String
+  - [ ] check whether one string is a rotation of another
+  - [ ] Check if two strings are anagram of each other
+
 ## **Recursion**
 
 - [ ] Implementation Problems
