@@ -55,8 +55,8 @@
 - [ ] Lec 3: Hard
 
   - [x] Pascal's Triangle
-  - [ ] Majority Element (n/3 times)
-  - [ ] 3-Sum Problem
+  - [x] Majority Element (n/3 times)
+  - [x] 3-Sum Problem
   - [ ] 4-Sum Problem
   - [ ] Largest Subarray with 0 Sum
   - [ ] Count number of subarrays with given xor K
